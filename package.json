@@ -1,0 +1,22 @@
+{
+  "name": "crawling_b4_walking",
+  "version": "1.0.0",
+  "description": "node web scraping",
+  "main": "crawl_nba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmiko/crawling_b4_walking.git"
+  },
+  "author": "Paul Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmiko/crawling_b4_walking/issues"
+  },
+  "homepage": "https://github.com/shmiko/crawling_b4_walking#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
