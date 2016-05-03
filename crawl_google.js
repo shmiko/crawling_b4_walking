@@ -43,7 +43,7 @@ request(url, function (error, response, body) {
 		links = $(".r a");
 		
 	links.each(function (i, link) {
-		// get the href attribute of each link twice
+		// get the href attribute of each link twice in a row
 		var url = $(link).attr("href");
 		
 		// strip out unnecessary junk
